@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 	{	
-		printdk
+		printf " hi \n"
 		return 0;
 	}
