@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
-	{
-		return0;
+	{	
+		printdk
+		return 0;
 	}
